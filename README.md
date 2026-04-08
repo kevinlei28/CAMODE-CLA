@@ -1,5 +1,5 @@
 # CAMODE-CLA
-The source code of CAMODE-CLA(Clustering Aided Multi-Operator Differential Evolution via Cluster-Level Adaptation). It is performed in MATLAB. The paper is published in GECCO '26 as a poster. You can read the paper under the envolop of `paper'.
+The source code of CAMODE-CLA(Clustering Aided Multi-Operator Differential Evolution via Cluster-Level Adaptation). It is performed in MATLAB. The paper is published in GECCO '26 as a poster. You can read the paper under the envolop of 'papers'.
 
 ## Author
 Qi Lei, Zhihao Mao, Bangpu Chen, Zhuoming Yuan, Lei Peng
